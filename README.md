@@ -1,7 +1,4 @@
 # TestReact
 
 
-detail/arc-welder/emfinbmielocnlhgmfkkmkngdoccbadn
-
-https://chrome.google.com/webstore/detail/arc-welder/emfinbmielocnlhgmfkkmkngdoccbadn/related
-
+mvn install:install-file -Dfile=/Desktop/tmp/nlu-2.8.2-SNAPSHOT.jar -DgroupId=com.emotibot -DartifactId=nlu -Dversion=2.8.2-SNAPSHOT -Dpackaging=jar
